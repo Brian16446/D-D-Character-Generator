@@ -1,0 +1,22 @@
+.container{
+    margin: 0 auto;
+    width: 80%;
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+.container p{
+    width: 80%;
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 18px;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}

@@ -1,0 +1,54 @@
+Features that I would like to add.
+Bugs/things that can make it better/optimized.
+
+- Will add option to exclude the expansion pack stuff.
+    - i.e button with SCAG, this will remove SCAG races/subclasses from the generator.
+    - Will be a few buttons so that user can remove all/none/some depending on preferences.
+    - Many people won't own all of the expansion books or have access to the info while playing.
+    - I haven't added any of them in yet. When I figure out a way of selecting them, that's when I'll
+      add them in.
+
+- I think I could reduce the number of functions if I had 1 function that took in a file as an argument
+and then searched the file and returned a word from it. Instead of having multiple functions to search
+multiple files. Could likely be condensed into one function. Will look to update this after it all works
+fine first.
+
+
+- To style I will create a HTML file that mimics the php one just to practice
+styling it so I don't break anything.
+
+
+- I decided against sorting the arrays for stats and having a proper stat priority.
+  I might include the option at the end to specify whether to weight the stats or not
+  could make for a funnier game if stats are truly random.
+
+
+- Would be nice if the CSS could have it so the container is centered to 80% width.
+
+- Add a event so that when enter key is pressed it creates new character
+
+
+
+- THINGS TO ADD - 
+
+- HP ✓
+- Add the class/race bonuses to stats ✓
+- Initiative ✓
+- Alignment ✓
+- Stat Modifiers (+2) ✓
+- Ability Modifiers (Althetics: +2) ✓
+- Passive Perception ✓
+- AC ✓
+- Info button (explains how everything is random buy you can change. what you need to choose to complete character)
+- Bonus spells from race
+
+
+- Will need to add a few sections to split up the stats maybe. So they're not just in a lame looking list
+  - Will do this at the end.
+
+
+- Might want to add a way of putting a + infront of the modifiers bit?
+
+- Move the button to bottom of screen and add a title at the top
+
+- Could unpack the stats/modifier arrays into variables for clarity?
